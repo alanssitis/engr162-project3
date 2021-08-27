@@ -1,0 +1,6 @@
+Team: 73
+Map: 1
+Notes: NONE
+Hazard Type, Parameter of Interest, Parameter value, Hazard X Coordinate, Hazard Y Coordinate
+Heat source, IR Sensor Units (u), 11, 45, 60
+Magnetic Source, Field strength (uT), 108, 0, 135
